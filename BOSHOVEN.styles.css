@@ -317,13 +317,13 @@ img{
 
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
-@media screen (min-width: 1201px) {
+/* @media screen {
     img{
         width: 300px;
         max-width: 300px;
     }
-
-}
+    ------ I'm very confused on how to do this, I don't think I understood the readings properly. I thought that to adjust the image sizes, we complete that in the html -----
+} */
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
 
 
